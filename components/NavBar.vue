@@ -34,7 +34,7 @@
         <span class="material-symbols-outlined"> close </span>
       </template>
     </div>
-    <div v-show="showMenu" class=" absolute top-16">
+    <div v-show="showMenu" class=" absolute top-16 bg-[#0B7077] p-5 rounded">
       <ul class="w-[350px] flex justify-between flex-col gap-1">
         <li><NuxtLink to="/" class="text-[#252641]">Home</NuxtLink></li>
         <li><NuxtLink class="text-[#252641] font-medium">Careers</NuxtLink></li>

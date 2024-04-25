@@ -4,5 +4,13 @@
 
 
 @layer components {
-    
+    .btn {
+        @apply inline-block h-10 w-10 rounded-full ring-2 ring-[#0B7077]
+    }
+    .white-underlayer {
+        @apply h-5 bg-white absolute top-[40%] left-3 right-7 z-[-1]
+    }
+    .btn-Course {
+        @apply border-[#C4C4C4] px-[20px] py-[10px] border rounded-md text-[#818C96]
+    }
 }
