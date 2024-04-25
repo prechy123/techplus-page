@@ -13,4 +13,7 @@
     .btn-Course {
         @apply border-[#C4C4C4] px-[20px] py-[10px] border rounded-md text-[#818C96]
     }
+    .card-icon {
+        @apply bg-[#FBFBFB] p-3 inline-block rounded-full shadow-md
+    }
 }

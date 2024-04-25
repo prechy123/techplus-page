@@ -1,5 +1,5 @@
 <template>
-    <div class=" flex gap-9 flex-wrap">
+    <div class=" grid gap-5 grid-cols-2 md:grid-cols-3 lg:grid-cols-6">
         <button class=" btn-Course text-white bg-[#0B7077] border-none">All Programme</button>
         <button class=" btn-Course">ui/ux design</button>
         <button class=" btn-Course">Program Design</button>
