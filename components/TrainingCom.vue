@@ -35,7 +35,7 @@
           </div>
         </div>
       </div>
-      <div class=" py-[37px] px-[75px] inline-block">
+      <div class=" py-[37px] px-[75px] flex items-center">
         <img src="/img/pana.png" alt="benefit" />
       </div>
     </div>

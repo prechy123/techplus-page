@@ -9,7 +9,7 @@
           <img src="/img/curly-lines.png" alt="curly lines" />
         </div>
         <NavBar />
-        <div class="flex items-center justify-between">
+        <div class="flex items-center justify-between md:mt-20 lg:mt-0">
           <div class="flex-[2] flex flex-col gap-3 items-start">
             <div
               class="px-[25px] py-[10px] bg-white inline-block rounded-[10px] text-[#252641] mt-28 md:mt-0"
