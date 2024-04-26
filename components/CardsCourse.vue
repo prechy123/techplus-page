@@ -1,5 +1,5 @@
 <template>
-  <div class="flex gap-[25px] flex-wrap lg:flex-nowrap">
+  <div class="flex gap-[25px] flex-wrap lg:flex-nowrap justify-center">
     <template v-for="card in cards" :key="card.id">
       <div class="rounded-[14px] overflow-hidden w-[320px] relative shadow-md">
         <img :src="`/img/card${card.id}.png`" alt="card" class="w-[320px]" />
