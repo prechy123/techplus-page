@@ -1,5 +1,5 @@
 <template>
-    <div class=" flex flex-col-reverse sm:flex-row-reverse gap-[94px] justify-between mt-28">
+    <div class=" flex flex-col-reverse lg:flex-row-reverse gap-[94px] justify-between mt-28">
       <div class=" flex flex-col gap-7 items-start">
         <h3
           class="bg-[#F5F5F5] py-[10px] px-[25px] inline-block font-medium text-[#0B7077] rounded-[10px]"

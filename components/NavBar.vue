@@ -35,7 +35,7 @@
       </template>
     </div>
     <div v-show="showMenu" class=" absolute top-16 bg-[#0B7077] p-5 rounded">
-      <ul class="w-[350px] flex justify-between flex-col gap-1">
+      <ul class=" flex justify-between flex-col gap-2">
         <li><NuxtLink to="/" class="text-[#252641]">Home</NuxtLink></li>
         <li><NuxtLink class="text-[#252641] font-medium">Careers</NuxtLink></li>
         <li><NuxtLink class="text-[#252641] font-medium">Blog</NuxtLink></li>
@@ -43,7 +43,7 @@
           <NuxtLink class="text-[#252641] font-medium">About Us</NuxtLink>
         </li>
       </ul>
-      <div class="flex gap-[15px]">
+      <div class="flex gap-[25px]">
       <button
         class="bg-white text-[#0B7077] py-[7px] px-[20px] rounded-[10px]"
       >
